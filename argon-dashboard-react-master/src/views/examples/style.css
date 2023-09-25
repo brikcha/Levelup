@@ -1,0 +1,17 @@
+.cardofforum{
+    display: flex !important;
+  flex-direction: column;
+  width: 40%;
+  margin: 5px;
+  justify-content: space-between;
+  align-content: center;
+
+  }
+  .cardofforum p {
+    margin-bottom:  0 !important;
+  }
+  .cardoffor{
+    display: flex !important;
+    flex-wrap: wrap;
+    width: 100%;
+  }
